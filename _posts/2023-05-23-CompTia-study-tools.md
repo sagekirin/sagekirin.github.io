@@ -2,15 +2,13 @@
 layout: post
 title: CompTIA Study Tools
 subtitle: Tools I plan on using to study for the A+ exam.
-header-img:
+header-img: img/in-post/Soul_Eater_Episode_31_HD_-_Maka_and_Crona_study_in_Crescent_Moon_1.jpg
 header-style: text
 catalog: true
 tags:
     - CompTia
     - A+
-
 ---
-
 To start, I should explain exactly how I'm studying for this exam and what materials I'm using. Proper links will be provided to each resource including the cost to use them (if there is any). 
 
 One thing that is free and that everyone should do is download the exam objectives and follow along with them, as they'll help you see where your strengths and weaknesses are during practice quizzes/exams and study for them accordingly.
