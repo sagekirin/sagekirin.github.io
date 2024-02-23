@@ -1,7 +1,8 @@
 ---
 layout: post
 title: CompTIA Study Tools
-subtitle: Tools I plan on using to study for the A+ exam
+subtitle: Tools I plan on using to study for the A+ exam.
+header-img:
 header-style: text
 catalog: true
 tags:
